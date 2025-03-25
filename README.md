@@ -1,5 +1,5 @@
 ## Hello, I'm Seethalaxmi Palkumar 🌊
-Aspiring Technical Writer | Former Prompt Engineer Associate
+Technical Writer | Former Prompt Engineer Associate
 
 * I'm currently building my **technical writing portfolio**.
 * I hold a Master's Degree in English.
